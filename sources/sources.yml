@@ -1,0 +1,9 @@
+sources:
+  - name: raw
+    database: analytics
+    schema: raw
+    tables:
+      - name: customers
+        identifier: raw_customers
+      - name: orders
+        identifiers: raw_orders
