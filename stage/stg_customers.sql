@@ -1,1 +1,2 @@
-select * from {{source('raw','customers')}} 
+
+select * from analytics.raw.raw_customers
