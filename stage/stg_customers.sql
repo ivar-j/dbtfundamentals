@@ -1,1 +1,1 @@
-select * from analytics.raw.raw_customers
+select id, name  from analytics.raw.raw_customers

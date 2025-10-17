@@ -5,3 +5,5 @@ sources:
     tables:
       - name: customers
         identifier: raw_customers
+      - name: orders
+        identifier: raw_orders
